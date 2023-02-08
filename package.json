@@ -1,0 +1,15 @@
+{
+  "name": "2022-11-08",
+  "version": "1.0.0",
+  "description": "Nessa série de 4 aulas, trabalhamos todos os conceitos abordados desenvolvendo um projeto de site cujo _design_ encontra-se nesse [link do Figma](https://www.figma.com/file/W8z87mIuFSvgSzRAQzKWub/dh?node-id=5%3A8&t=dDbN6BCcPNr27ELE-0).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
